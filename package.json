@@ -1,0 +1,19 @@
+{
+  "name": "eastwood-config-dgb",
+  "version": "1.0.0",
+  "description": "Custom Eastwood Format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oculus42/eastwood-config-dgb.git"
+  },
+  "author": "Samuel Rouse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oculus42/eastwood-config-dgb/issues"
+  },
+  "homepage": "https://github.com/oculus42/eastwood-config-dgb#readme"
+}
