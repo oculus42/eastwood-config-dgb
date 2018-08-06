@@ -19,8 +19,8 @@ module.exports = {
       "warn",
       4
     ],
-    "import/no-unresolved": ["warn"],
-    "import/no-webpack-loader-syntax": ["warn"]
+    "import/no-unresolved": ["warn", { "ignore": [ "^dashboard\/js", "^services" ] }],
+    "import/no-webpack-loader-syntax": ["off"]
   }
 }
 `,
